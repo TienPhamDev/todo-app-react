@@ -1,8 +1,8 @@
-import React from 'react';
-import TodoList from './TodoList';
-import TodoForm from './TodoForm';
-import TodoFilter from './TodoFilter';
-import styles from './TodoApp.module.css';
+import React from "react";
+import TodoList from "./TodoList";
+import TodoForm from "./TodoForm";
+import TodoFilter from "./TodoFilter";
+import styles from "./TodoApp.module.css";
 
 const TodoApp = () => {
   return (
